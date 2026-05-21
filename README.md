@@ -27,6 +27,12 @@ This course emphasizes professional documentation. Students are required to:
 2. **Open Source Participation:** Students learn to apply **MIT Licenses** to their projects, allowing for collaborative and ethical software sharing.
 3. **Visual Proof:** Repositories include screenshots of successful *TryHackMe* and *OverTheWire* lab completions.
 
+## 🎤 Curriculum Presentation
+
+Download the official presentation deck for homeschool parents, educators, and STEM coordinators.
+
+- [Download PDF Presentation](Cybersecurity%20Course%20Proposal.pdf)
+
 ## 🛠️ Recommended Tools
 * [TryHackMe](https://tryhackme.com/) - Gamified Cyber Labs
 * [GitHub](https://github.com/) - Project Hosting & Portfolios
