@@ -39,5 +39,39 @@ Download the official presentation deck for homeschool parents, educators, and S
 * [OverTheWire](https://overthewire.org/) - Linux Wargames
 * [Python](https://www.python.org/) - Automation Scripting
 
+## 👨‍👩‍👧 Instructional Guide for Parents & Homeschool Teachers
+
+This curriculum uses a guided, portfolio-based learning model built around:
+- TryHackMe interactive labs
+- GitHub documentation
+- Open-source learning
+- Step-by-step cybersecurity fundamentals
+
+Students complete beginner-friendly rooms from:
+- TryHackMe Pre Security
+- TryHackMe Cyber Security 101
+- OverTheWire Linux challenges
+
+### Weekly Workflow
+
+1. Read the lesson module on TryHackMe
+2. Complete the interactive exercises
+3. Answer the guided questions
+4. Take a screenshot of completion
+5. Upload notes and screenshots to GitHub
+6. Build a professional technical portfolio over time
+
+### Parent-Friendly Design
+
+This curriculum is designed to minimize grading pressure on parents.
+
+Progress tracking is built into:
+- TryHackMe completion percentages
+- GitHub commits
+- Portfolio submissions
+- Student write-ups
+
+The goal is to create safe, ethical, and technically literate students prepared for future STEM pathways.
+
 ## 📜 License
 This curriculum is shared under the [MIT License](LICENSE). You are free to use, modify, and distribute it for your own homeschool or educational groups.
